@@ -30,4 +30,5 @@ I've been learning to code on and off for many years, dribbling in many language
                     
 ### Socials
                   
+
 <p align="left"> <a href="https://www.github.com/FTP-droid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
