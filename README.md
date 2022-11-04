@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alaister
 ================================================================================================================================
 
-Aspiring Web Developer
+Front End Web Developer
 ----------------------
 
 I've been learning to code on and off for many years, dribbling in many languages such as Java, Python, R, C++. I found a passion for web development and am currently learning the React framework through building projects on my own. In the future, I hope to be working as a software engineer, perhaps for a start up looking to make a difference in the world. :)
