@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Web Developer
 ----------------------
 
-I've been learning to code on and off for many years, dribbling in many languages such as Java, Python, R, C++. I found a passion for web development and am currently learning the React framework through building projects on my own. In the future, I hope to be working as a software engineer, perhaps for a start up looking to make a difference in the world. :)
+I'm a front end web developer currently learning the React framework through building projects. The latest project I'm working on is a clone of tiktok utilizing the PERN stack!
 
 *   ✉️  You can contact me at [alaister.pereira@live.com](mailto:alaister.pereira@live.com)
 *   🧠  I'm learning React, I would like to learn Angular and Vue.js after I have a solid understanding of React
