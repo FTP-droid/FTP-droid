@@ -7,7 +7,7 @@ Front End Web Developer
 I'm a front end web developer currently learning the React framework through building projects. The latest project I'm working on is a clone of tiktok utilizing the PERN stack!
 
 *   ✉️  You can contact me at [alaister.pereira@live.com](mailto:alaister.pereira@live.com)
-*   🧠  I'm learning React, I would like to learn Angular and Vue.js after I have a solid understanding of React
+*   🧠  I'm currently developing projects using React! I would like to learn about IOS application development as well.
 *   🤝  I'm open to collaborating on anything web dev related
 
 ### Skills
