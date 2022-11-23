@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Web Developer
 ----------------------
 
-I'm a front end web developer currently utilizing the React framework. The latest project I'm working on is a clone of tiktok utilizing the PERN stack!
+I'm a front end web developer. The latest project I'm working on is a clone of tiktok utilizing the PERN stack!
 
 *   ✉️  You can contact me at [alaister.pereira@live.com](mailto:alaister.pereira@live.com)
 *   🧠  I'm currently developing projects using React! I would like to learn about IOS application development in the future.
