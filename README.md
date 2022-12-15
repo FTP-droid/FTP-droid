@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Developer
 ----------------------
 
-The latest project I'm working on is a clone of tiktok utilizing the PERN stack!
+The latest project I'm working on is a clone of the mac operating system using the electron-react-boilerplate repo!
 
 *   ✉️  You can contact me at [alaister.pereira@live.com](mailto:alaister.pereira@live.com)
 *   🧠  I'm currently developing projects using React! I would like to learn about IOS application development in the future.
