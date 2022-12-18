@@ -8,7 +8,7 @@ The latest project I'm working on is a clone of the mac operating system using t
 
 *   ✉️  You can contact me at [alaister.pereira@live.com](mailto:alaister.pereira@live.com)
 *   🧠  I'm currently developing projects using React! I would like to learn about IOS application development in the future.
-*   🤝  Open to collaborating on anything web dev related
+*   🤝  I'm open to collaborating on anything software related!
 
 ### Skills
 <p align="left">
