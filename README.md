@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer 
 ----------------------
 
-The latest project I'm working on is a review site!
+The latest project I'm working on is a travel site integrating AI!
 
 *   ✉️  You can contact me at [alaister.pereira@live.com](mailto:alaister.pereira@live.com)
 *   🧠  I'm currently developing projects using Python and React! I would like to learn about IOS application development in the future.
